@@ -1,2 +1,2 @@
 # WinCHMStandardKeygen
-![Show](.\Untitled.png)
+![Show](./Untitled.png)
